@@ -23,7 +23,9 @@ call center ai: 呼叫中心，Call Center，智能呼叫中心，大语言模�
 
 # 注意事项
 
+
 代码中使用的开源模块遵循各自的开源协议。
 
 # 商业使用
 请联系微信ID：easyaicc，获取商业许可。我们会将源代码进行交付，并安排源代码培训。
+<img width="418" height="471" alt="image" src="https://github.com/user-attachments/assets/463086d9-15be-4f08-9a24-9d86a26f17b4" />

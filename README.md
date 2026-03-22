@@ -1,5 +1,5 @@
-# EasyAICC-Easy-AI-Call-Center
-呼叫中心，Call Center，智能呼叫中心，大语言模型呼叫中心，大模型呼叫中心
+<img width="1104" height="647" alt="image" src="https://github.com/user-attachments/assets/3af339a4-85a3-4b50-ade1-bdc0d924c1cf" /># EasyAICC-Easy-AI-Call-Center
+call center ai: 呼叫中心，Call Center，智能呼叫中心，大语言模型呼叫中心，大模型呼叫中心
 
 # 为什么使用大模型呼叫中心？
 <img width="1118" height="316" alt="image" src="https://github.com/user-attachments/assets/37b1d6fe-b283-4155-800e-1637ea0ff1af" />

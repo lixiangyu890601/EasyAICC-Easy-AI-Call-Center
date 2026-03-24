@@ -1,5 +1,5 @@
 # EasyAICC-Easy-AI-Call-Center
-call center ai: 呼叫中心，Call Center，智能呼叫中心，大语言模型呼叫中心，大模型呼叫中心
+外呼系统，智能外呼，自动外呼系统，人工外呼，呼叫中心，大模型外呼，大模型呼叫中心系统
 
 # 为什么使用大模型呼叫中心？
 <img width="1118" height="316" alt="image" src="https://github.com/user-attachments/assets/37b1d6fe-b283-4155-800e-1637ea0ff1af" />
